@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi, I'm Mathias 👋
 
+I'm 19 years old, currently studying Systems Engineering.
+
+- :mortar_board: I’m currently stuying at Universidad ORT Uruguay
+- :video_game: As a hobby I can lose myself for a few hours by playing videogames
 <!--
 **MH284934/MH284934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
